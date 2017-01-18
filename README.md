@@ -1,14 +1,4 @@
-dfdskdsfk
-dkfslkdslk
-fdlklkdsflkds
-lkjdflkjslkjslkjfdlkjfd
-fdsslk
-
-
-
-
-
-
-
 
 # yuyus-training
+
+This is a test.
